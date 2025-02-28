@@ -124,9 +124,9 @@ st.markdown(
         </ul>
 
 
-    New to our tool? Be sure to check out our [![Manual guide](https://img.shields.io/badge/Manual_Guide-red.svg)](https://github.com/hkust-lib-ds/P003-PUBLIC_English-and-Chinese-Topic-Modeling-Tool/ENG/README.md)  for guidance.
+    New to our tool? Be sure to check out our [![Manual guide](https://img.shields.io/badge/Manual_Guide-red.svg)](https://github.com/hkust-lib-ds/P003-PUBLIC_English-and-Chinese-Topic-Modeling-Tool/blob/main/ENG/README.md)  for guidance.
 
-    PS: This tool is designed exclusively for English text. If you need to work with Chinese text, please run our [![Manual guide](https://img.shields.io/badge/Chinese_Modeling_Tool-blue.svg)](https://github.com/hkust-lib-ds/P003-PUBLIC_English-and-Chinese-Topic-Modeling-Tool/CHI/README.md) instead.
+    PS: This tool is designed exclusively for English text. If you need to work with Chinese text, please run our [![Manual guide](https://img.shields.io/badge/Chinese_Modeling_Tool-blue.svg)](https://github.com/hkust-lib-ds/P003-PUBLIC_English-and-Chinese-Topic-Modeling-Tool/blob/main/CHI/README.md) instead.
    
     </div>
     """, unsafe_allow_html=True
@@ -223,7 +223,7 @@ with st.sidebar:
                 """, unsafe_allow_html=True)
 
     """
-    [![Manual guide](https://img.shields.io/badge/Manual_Guide-red.svg)](https://github.com/hkust-lib-ds/P003-PUBLIC_English-and-Chinese-Topic-Modeling-Tool/ENG/README.md)
+    [![Manual guide](https://img.shields.io/badge/Manual_Guide-red.svg)](https://github.com/hkust-lib-ds/P003-PUBLIC_English-and-Chinese-Topic-Modeling-Tool/blob/main/ENG/README.md)
     [![GitHub repo](https://badgen.net/badge/icon/GitHub/black?icon=github&label)](https://github.com/hkust-lib-ds/P003-PUBLIC_English-and-Chinese-Topic-Modeling-Tool) 
 
     """
